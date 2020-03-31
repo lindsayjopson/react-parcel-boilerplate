@@ -1,0 +1,26 @@
+{
+  "name": "react-parcel-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate project using React &amp; Parcel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindsayjopson/react-parcel-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindsayjopson/react-parcel-boilerplate/issues"
+  },
+  "homepage": "https://github.com/lindsayjopson/react-parcel-boilerplate#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
